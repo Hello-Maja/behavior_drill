@@ -1,1 +1,3 @@
-application.js
+$(document).ready(function(){
+    $('.sortable-list').sortable();
+});
